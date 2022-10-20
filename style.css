@@ -1,0 +1,150 @@
+h1{
+font-size: 50px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.highlight{
+    color: orange;
+    
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 3%;
+}
+.half-width img{
+width: 100%;
+
+}
+.top-banner{
+background-image: url("complete-web-development-bangla-resources-master/developer-portfolio/top-banner.png");
+ background-repeat: no-repeat;
+
+}
+
+section{
+    height: 700px;
+}
+.link{
+    text-decoration: none;
+   background-image: linear-gradient( lightsalmon,tomato);
+ font-weight: 700;
+  color: white; 
+  
+  border-radius: 5px;
+  padding: 4px;
+}
+h2{
+    font-size: 40px;
+
+}
+p{
+    color: dimgrey;
+}
+
+.dream-area{
+    background-image: url("complete-web-development-bangla-resources-master/developer-portfolio/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.experience-area{
+    background-image: url("complete-web-development-bangla-resources-master/developer-portfolio/exp-bg.png");
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 5px;
+    height: 400px;
+   background-color:white ;
+}
+#fullstack{
+
+    border-left: 7px  solid;
+    border-image:linear-gradient(  lightsalmon,tomato ) ;
+    border-image-slice: 1;
+   
+}
+#baby-web{
+    border-left: 7px  solid;
+    border-image:linear-gradient(  blue,cyan ) ;
+    border-image-slice: 1;
+}
+p{
+    text-align: justify;
+}
+
+footer p{
+    text-align: center;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
